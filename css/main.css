@@ -217,7 +217,7 @@ h6 {
   font-size: 0.875em;
 }
 p {
-  margin: 0 0 10px 0;
+  margin: 0 0 1px 0;
 }
 a,
 span.exturl {
@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #95c22f;
+  background: #0a479e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
